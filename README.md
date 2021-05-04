@@ -1,3 +1,5 @@
+#### FOR LATEST VERSION CHECK <a href='https://github.com/edvin/tornadofx'>EDVIN:TORNADOFX</a>
+
 ![TornadoFX Logo](graphics/tornado-fx-logo.png?raw=true "TornadoFX")
 # TornadoFX
 
